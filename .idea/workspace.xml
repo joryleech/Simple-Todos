@@ -46,13 +46,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="task.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/imports/ui/task.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="70" lean-forward="false" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+            <state relative-caret-position="25">
+              <caret line="1" column="74" lean-forward="false" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
               <folding>
-                <element signature="e#95#102#0" expanded="true" />
+                <element signature="e#125#132#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,8 +61,8 @@
       <file leaf-file-name="task.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/imports/ui/task.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="550">
+              <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
               </folding>
@@ -70,11 +70,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="tasks.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/imports/ui/tasks.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1450">
+              <caret line="60" column="29" lean-forward="false" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="body.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/imports/ui/body.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="925">
-              <caret line="39" column="38" lean-forward="false" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+            <state relative-caret-position="975">
+              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding>
                 <element signature="e#42#85#0" expanded="true" />
               </folding>
@@ -106,16 +116,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/client/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1284">
-              <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="tasks.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/imports/api/tasks.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -139,6 +139,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>tasks</find>
+      <find>update</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -151,12 +152,13 @@
         <option value="$PROJECT_DIR$/app/client/main.css" />
         <option value="$PROJECT_DIR$/app/imports/api/tasks.js" />
         <option value="$PROJECT_DIR$/app/server/main.js" />
-        <option value="$PROJECT_DIR$/app/imports/ui/task.js" />
         <option value="$PROJECT_DIR$/app/client/main.js" />
         <option value="$PROJECT_DIR$/app/imports/startup/accounts-config.js" />
-        <option value="$PROJECT_DIR$/app/imports/ui/body.js" />
         <option value="$PROJECT_DIR$/app/imports/ui/body.html" />
+        <option value="$PROJECT_DIR$/app/imports/ui/body.js" />
         <option value="$PROJECT_DIR$/app/imports/ui/task.html" />
+        <option value="$PROJECT_DIR$/app/imports/ui/task.js" />
+        <option value="$PROJECT_DIR$/app/imports/ui/tasks.js" />
       </list>
     </option>
   </component>
@@ -229,6 +231,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simple-Todos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simple-Todos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -624,12 +644,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1488265257380</updated>
-      <workItem from="1488265261299" duration="3602000" />
+      <workItem from="1488265261299" duration="4451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3602000" />
+    <option name="totallyTimeSpent" value="4451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="1940" height="2124" extended-state="0" />
@@ -696,16 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/imports/ui/task.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/imports/startup/accounts-config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -732,16 +742,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/imports/ui/body.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="39" column="38" lean-forward="false" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
-          <folding>
-            <element signature="e#42#85#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/imports/ui/body.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -750,13 +750,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/imports/ui/body.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="e#42#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/imports/ui/task.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="70" lean-forward="false" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+        <state relative-caret-position="25">
+          <caret line="1" column="74" lean-forward="false" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
           <folding>
-            <element signature="e#95#102#0" expanded="true" />
+            <element signature="e#125#132#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/imports/ui/task.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/imports/ui/tasks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="60" column="29" lean-forward="false" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
