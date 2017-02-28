@@ -4,6 +4,9 @@
       <H1>Todo List</H1>
     </header>
 
+    <form class="new-task">
+      <input type="text" name="text" placeHolder="PLEASE ADD A NEW TASK HERE"/>
+    </form>
 
   <ul>
     {{#each tasks}}
@@ -15,6 +18,3 @@
 
 </body>
 
-<template name="task">
-  <li>{{text}}</li>
-</template>
